@@ -26,3 +26,16 @@ The primary objective of this project is to provide developers with practical ex
 
 To use this project, you can either clone the repository or download the source code as a ZIP file. Once you have the code, you can open it in Android Studio and run the examples on an emulator or physical device.
 
+## ExamplesF
+
+The project includes examples of using Jetpack Compose and Coroutines together, including:
+
+- [Text](https://developer.android.com/jetpack/compose/text)
+- [Buttons](https://www.jetpackcompose.net/buttons-in-jetpack-compose)
+- [Lists](https://developer.android.com/jetpack/compose/lists)
+- [Navigation](https://developer.android.com/jetpack/compose/navigation)
+
+## TODO
+- Code Style Refactor
+- Data Sync between Android Devices and Wearable Devices
+
