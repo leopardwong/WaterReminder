@@ -1,10 +1,9 @@
 # WaterReminder
 
-Welcome to the Jetpack Compose and WearOS Data Transfer Example Project! This repository contains a collection of sample code showcasing the capabilities of Jetpack Compose, a modern toolkit for building native Android UI, along with demonstrating data transfer between WearOS and Android devices.
+Welcome to the WaterReminder project! This repository is a collection of sample code designed to demonstrate the power of Jetpack Compose, a modern Android UI toolkit. Additionally, it showcases the seamless data transfer capabilities between WearOS and Android devices, exemplifying effective communication between these platforms.
 
-## Purpose
-
-The primary objective of this project is to provide developers with practical examples of utilizing diverse Compose features and components. Furthermore, the project emphasizes the implementation of data transfer functionality between WearOS and Android devices, offering insights into seamless communication across these platforms.
+## Project Objective
+The main goal of this project is to provide developers with practical examples of utilizing various Jetpack Compose features and components. Furthermore, it offers insights into implementing data transfer functionality between WearOS and Android devices, enabling a fluid exchange of information.
 
 ## Screenshots
 
@@ -23,10 +22,13 @@ The primary objective of this project is to provide developers with practical ex
 </div>
 
 ## Getting Started
+To explore the examples provided in this project, follow these steps:
 
-To use this project, you can either clone the repository or download the source code as a ZIP file. Once you have the code, you can open it in Android Studio and run the examples on an emulator or physical device.
+1. Clone the repository or download the source code as a ZIP file.
+2. Open the project in Android Studio.
+3. Run the examples on an emulator or physical device.
 
-## ExamplesF
+## Examples
 
 The project includes examples of using Jetpack Compose and Coroutines together, including:
 
@@ -36,6 +38,9 @@ The project includes examples of using Jetpack Compose and Coroutines together, 
 - [Navigation](https://developer.android.com/jetpack/compose/navigation)
 
 ## TODO
-- Code Style Refactor
-- Data Sync between Android Devices and Wearable Devices
+Here are the upcoming enhancements planned for the project:
 
+#### Code Style Refactor:
+Enhance code structure and formatting to ensure maintainability.
+#### Data Sync: Implement:
+seamless data synchronization between Android Devices and Wearable Devices.
